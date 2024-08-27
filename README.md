@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ccf14083-9e0d-45c9-b6c9-36f9a5f97218)
 # Foreground Card UI Project
 
 This project is a React-based application that displays a series of draggable cards over a fixed background. The cards are customizable with descriptions, file sizes, and tags, making it a versatile UI component for various applications.
@@ -96,6 +96,10 @@ You can adjust the layout and styling of the components by editing the respectiv
 ### Adding New Features
 
 To add new features, create new components in the `src/components/` directory and include them in the relevant files as needed.
+
+![image](https://github.com/user-attachments/assets/d97e2060-3f4f-4d60-aab4-5133ac292d97)
+![image](https://github.com/user-attachments/assets/95609079-0790-46d1-8983-c4ef0a165b6e)
+
 
 ## Project Structure
 
