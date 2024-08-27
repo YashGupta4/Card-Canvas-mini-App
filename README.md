@@ -42,8 +42,7 @@ Before you begin, ensure you have met the following requirements:
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/foreground-card-ui.git
-   cd foreground-card-ui
+   git clone https://github.com/YashGupta4/Docs-mini-App.git
    ```
 
 2. **Install Dependencies**:
@@ -168,8 +167,8 @@ This project is licensed under the MIT License. For more information, see the [L
 
 For questions or support, please reach out to:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Your Name**: [info.guptayash@gmail.com](mailto:your.email@example.com)
+- **GitHub**: [Yash](https://github.com/YashGupta4/)
 
 You can also open an issue on the GitHub repository.
 
